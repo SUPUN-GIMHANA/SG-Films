@@ -1,5 +1,7 @@
 Here's a beautifully formatted **README.md** with placeholder image suggestions that you can customize:
-
+![Portfolio Screenshot](https://github.com/SUPUN-GIMHANA/SG-Films/blob/main/Screenshot%202025-05-13%20201846.png?raw=true)
+![Portfolio Screenshot](https://github.com/SUPUN-GIMHANA/SG-Films/blob/main/Screenshot%202025-05-13%20201907.png?raw=true)
+![Portfolio Screenshot](https://github.com/SUPUN-GIMHANA/SG-Films/blob/main/Screenshot%202025-05-13%20201918.png?raw=true)
 ```markdown
 # 🎬 SG Films - Netflix-Inspired Streaming Platform
 
